@@ -1,0 +1,58 @@
+# ОС и системные файлы
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# IDE и редакторы
+.vscode/
+.idea/
+*.iml
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+.venv/
+env/
+venv/
+*.ipynb_checkpoints/
+Pipfile.lock
+
+# Node.js / JS
+node_modules/
+dist/
+build/
+*.log
+
+# PHP / Yii2
+/vendor/
+runtime/
+assets/
+composer.lock
+.env
+.env.*
+
+# Databases / dumps
+*.sql
+*.sqlite3
+*.db
+
+# Java (на будущее)
+target/
+*.class
+*.jar
+
+# DotNet (на будущее)
+bin/
+obj/
+*.user
+*.suo
+
+# Logs
+*.log
+logs/
